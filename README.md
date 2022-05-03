@@ -1,5 +1,5 @@
-# softwarecollaborative.org
-This repo contains the code and content for the Intergovernmental Software Collaborative website.
+# DSN, URL TBD
+This repo contains the code and content for the Digital Government Service Network website.
 
 ## Installation
 If you want to run this locally, first, make sure you have the code on your machine, either by cloning this repo or by forking it and cloning the fork.
