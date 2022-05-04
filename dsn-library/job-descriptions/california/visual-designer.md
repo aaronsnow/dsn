@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Visual Designer    
 A Visual Designer develops a deep understanding of the goals of customers and their business needs; will be well-versed in all aspects of current visual design standards and trends and will be responsible for managing project design reviews, resource planning, and execution for all project work related to visual design; and oversees all visual design efforts.

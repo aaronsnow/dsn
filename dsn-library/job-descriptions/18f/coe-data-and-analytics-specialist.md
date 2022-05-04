@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Data & Analytics Specialist
 permalink: /join/coe-data-and-analytics-specialist/

@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Engagement Lead
 permalink: /join/engagement-lead/

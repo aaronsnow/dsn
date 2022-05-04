@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Programmer / Software Engineer / Full Stack Developer
 The description is the same as with the Senior Programmer, except this Classification functions under general supervision.

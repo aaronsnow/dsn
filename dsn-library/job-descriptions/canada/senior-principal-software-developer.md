@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Senior / Principal Software Developer
 description: We’re hiring Senior and Principal Software Developers. While we

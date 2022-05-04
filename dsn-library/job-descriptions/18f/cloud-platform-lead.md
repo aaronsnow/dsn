@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: 18F - Cloud Platform Lead
 permalink: /join/cloud-platform-lead/

@@ -1,5 +1,12 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: 18F - Cloud Consulting Technical Lead
+parent: job-descriptions
 permalink: /join/cloud-consulting-tech-lead/
 state: closed
 job_post_type: tts

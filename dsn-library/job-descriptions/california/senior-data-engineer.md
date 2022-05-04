@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Senior Data Engineer    
 A Senior Data Engineer leads the inventorying, gathering, cleaning, processing, and programming of automated datasets for use by analysts and others. They may work with other data engineers and act as mentor, expert, and project manager to implement data engineering projects. They are concerned with establishing standard practices that enable continuous improvement and data operations, including but not limited to documentation, tooling, and project intake, prioritization, and management.
 

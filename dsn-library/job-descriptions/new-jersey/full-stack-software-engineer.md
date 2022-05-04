@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Full-Stack Software Engineer
 at NJ Office of Innovation
 Flexible Location

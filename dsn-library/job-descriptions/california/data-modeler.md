@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Data Modeler
 A Data Modeler designs and implements data modeling solutions using relational, dimensional, and NoSQL databases depending on need. They work closely with data architects to design databases or data warehouses using a mixture of conceptual, physical, and logical data models. They are concerned with models that can improve the interoperability of data among systems and improve the performance of underlying data queries and data movement that feed applications.

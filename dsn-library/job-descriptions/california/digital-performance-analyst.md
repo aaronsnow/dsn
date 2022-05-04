@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 # Digital Performance Analyst    
 A Digital Performance Analyst specifies, collects, and presents key performance data and analysis for a given digital service; supports Product Managers by generating new and useful information and translating it into actions that will allow them to iteratively improve their service for users; possesses analytical and problem-solving skills necessary for quickly developing recommendations based on the quantitative and qualitative evidence gathered via web analytics, financial data, and user feedback; is confident in explaining technical concepts to senior officials with limited technological background; and is comfortable working with data, from gathering and analysis through to design and presentation.
 

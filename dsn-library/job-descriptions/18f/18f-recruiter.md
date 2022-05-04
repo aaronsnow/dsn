@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: 18F - Recruiter
 permalink: /join/recruiter/

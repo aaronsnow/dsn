@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 >Job Title: Lead Backend and DevOps Developer
 >Salary: $72,038 – $150,000 (Annual)

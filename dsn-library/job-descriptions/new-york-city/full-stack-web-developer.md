@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 > Job Title: Full-Stack Web Developer
 > Salary: $58,700 – $120,000 (Annual)
 

@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Customer Experience Architect    
 A Customer Experience Architect designs and tests processes to capture, understand and respond to feedback that’s both internal from employees and external from customers and stakeholders. They are concerned both with creating a voice of the customer function and operationalizing insights and experiments back into the program or project. They design and organize processes and information around the customer – who they are and what their needs are, and then integrate customer data to create useful insights that are shared across the right teams and increasingly interwoven with the fabric of the project or program.

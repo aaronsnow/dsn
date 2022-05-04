@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Senior Project Manager
 The Senior Project Manager has full responsibility to manage and oversee all aspects of the most complex IT initiatives and work collaboratively with Product Managers to deliver IT products, services or systems. This includes but is not limited to managing both external and internal IT project teams, and interacting with department heads, agency secretaries at the user agency, State control agencies, and individuals of similar status and capacity in the private sector.

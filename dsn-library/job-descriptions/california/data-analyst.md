@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Data Analyst    
 A Data Analyst supports the organization by translating business initiatives and goals into analytical questions, identifying critical metrics, conducting analysis, and developing reporting. Additionally, they will help identify relevant datasets, contribute to data transformations, clean data, and conduct exploratory and statistical analyses to identify, analyze, and interpret trends or patterns in complex datasets.

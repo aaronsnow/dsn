@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: 18F - Consulting Software Engineer (IT Specialist) 
 permalink: /join/consulting-software-engineer/

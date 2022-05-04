@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Agile Coach    
 An Agile Coach transforms initiatives to deliver lasting change within agencies that focus on delivering value and outcomes for residents. This role often works closely with scrum masters, product managers, and program leaders. Agile coaches enable teams to deliver products and services across an organization or organizations. Coaches may be required to work across levels including: at the team level, working with teams to ensure that delivery teams within agencies are adopting agile practices and tools while performing effectively; at the portfolio or program level, to help agencies to establish the right processes for managing a portfolio of work in an agile way; at the organization level, to drive strategic change across the organization and ensure that adoption of agile techniques is embedded from the most senior levels of the organization; or across all levels to ensure that organizations adopt a pragmatic approach to the way in which they govern delivery and continuous improvement of digital services.
 

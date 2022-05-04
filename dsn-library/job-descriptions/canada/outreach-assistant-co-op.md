@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Outreach Assistant (co-op)
 description: >-

@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Content Strategist    
 The Content Strategist will lead the information architecture on digital products and experiences and collaborate with designers and other content strategists to measure and improve the effectiveness of digital, print, and other content. They will contribute to increasing the quality and visibility of relevant content and services by applying best practices in SEO in search engine results (edit content, add content, and modify HTML and associated coding to both increase its relevance to specific keywords and remove barriers to the indexing activities of search engines).

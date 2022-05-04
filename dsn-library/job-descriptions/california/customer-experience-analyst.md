@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Customer Experience Analyst    
 A Customer Experience Analyst gathers and interprets data on customer needs, satisfaction, perceptions, and capacity on behalf of a program or project. They conduct surveys to collect stakeholder feedback, analyze data, perform research, and create reports that are both internal from employees and external from customers and stakeholders. They are concerned both with identifying and reporting on a voice of the customer function and surfacing insights for project or program management to operationalize back into the program or project.

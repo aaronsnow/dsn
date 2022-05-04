@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 >Updated: April 19, 2022
 Published: April 19, 2022
 Job title: Digital Talent Specialist    

@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 # Front-end Developer
 
 ## What you’ll do:

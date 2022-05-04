@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Delivery Manager    
 A Delivery Manager facilitates teams for successful delivery by removing obstacles (or blockers to progress), constantly helping teams become more self-organizing, and enabling the work teams do rather than impose how it’s done; manages one or more projects, typically to deliver a specific product or transformation via a multi-disciplinary, high-skilled digital team; is adept at delivering complex digital projects, breaking down barriers to the team, and both planning at a higher level and getting into the detail to ensure deliverables happen when needed; and defines project needs and feeds these into the portfolio/program process to enable resources to be appropriately allocated.
 

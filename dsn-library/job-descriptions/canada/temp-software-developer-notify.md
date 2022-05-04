@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Temp Software Developer - Notify
 description: "Notify is a SaaS platform that allows organizations to send email

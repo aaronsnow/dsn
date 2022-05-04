@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Artificial Intelligence Specialist 
 permalink: /join/artificial-intelligence-specialist/

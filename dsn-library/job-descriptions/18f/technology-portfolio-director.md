@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: TTS Operations - Technology Portfolio Director
 permalink: /join/technology-portfolio-director/

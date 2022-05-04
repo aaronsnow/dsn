@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Data Engineer    
 A Data Engineer supports the inventorying, gathering, cleaning, processing, and programming of automated datasets and data pipelines for use by analysts and others. They are also concerned with clear documentation and work with analysts and others to ensure the output datasets are well-defined for use.

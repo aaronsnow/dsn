@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: 'Senior Front-End Software Developer'
 description: >-

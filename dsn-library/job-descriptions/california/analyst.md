@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Analyst    
 An Analyst is familiar with a range of digital/web services and solutions, ideally where open source and cloud technologies and various development methodologies have been applied; has an eye for detail, excellent communication skills, and ability to rationalize complex information to make it understandable for others to work; and ability to interrogate reported information and challenge sources where inconsistencies are found.

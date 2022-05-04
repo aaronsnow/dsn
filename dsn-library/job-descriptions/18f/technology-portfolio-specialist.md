@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: TTS - Technology Portfolio Specialist
 permalink: /join/technology-portfolio-specialist/

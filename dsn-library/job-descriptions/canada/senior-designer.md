@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Senior Designer
 description: Designers are also responsible for creating intelligent, simple

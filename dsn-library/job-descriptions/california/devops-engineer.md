@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # DevOps Engineer    
 A DevOps Engineer serves as the engineer of complex technology implementations in a product-centric environment; is comfortable with bridging the gap between legacy development or operations teams and working toward a shared culture and vision; and works to arm developers with the best tools and ensuring system uptime and performance.

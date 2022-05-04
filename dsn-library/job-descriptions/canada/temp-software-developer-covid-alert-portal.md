@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Temp Software Developer - COVID Alert Portal
 description: COVID Alert is a COVID-19 exposure notification system that uses

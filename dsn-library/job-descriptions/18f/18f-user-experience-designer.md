@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: 18F - User Experience Designer (IT Specialist)
 permalink: /join/18f-user-experience-designer/

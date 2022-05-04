@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Senior Technical Lead    
 A Senior Technical Lead ensures IT architectural integrity and functions as the interface between systems developers and IT project managers. The Senior Technical Lead provides coordination, oversight and leadership for the analyses, planning, design, implementation, documentation, assessment, and management of IT architecture and infrastructure design framework to align IT approaches with an organization’s mission, goals and business processes.
 

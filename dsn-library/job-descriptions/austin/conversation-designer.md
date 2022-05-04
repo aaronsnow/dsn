@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 
 # Design, Technology, and Innovation Fellow: Facilitator / Conversation Designer
 We’re looking for mid-level and senior facilitators to serve on multidisciplinary project teams with designers and career civil servants, actively demonstrating the value of facilitation in support of an iterative design process. Our teams are working to improve a wide range of city services, including researching and redesigning our [permitting processes](http://www.austintexas.gov/department/development-services), prototyping ways to change behaviors around [recycling and composting](http://www.austintexas.gov/department/austin-resource-recovery), building the next generation of [ATXFloods](https://www.atxfloods.com/), improving the digital presence of our [Convention Center](https://github.com/cityofaustin/austinconventioncenter.com), and creating city-wide standards for service design, web development, and user research.

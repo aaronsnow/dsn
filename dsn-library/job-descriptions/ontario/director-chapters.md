@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 >Updated: October 19, 2021
 Published: October 19, 2021
 Job title: Director of Chapters    

@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 >Updated: February 22, 2022
 >Published: January 15, 2018
 >Job title: Experience design co-op    

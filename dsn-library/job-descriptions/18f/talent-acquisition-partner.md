@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: TTS Talent - Talent Acquisition Partner
 permalink: /join/talent-acquisition-partner/

@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: "18F Product director — Supervisory IT Specialist (SYSANALYSIS)"
 permalink: /join/performance-profiles/18f-product-director/

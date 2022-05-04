@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Technical Writer    
 A Technical Writer produces technical documentation that helps people understand and use a product or service. This documentation may include but not limited to online help, manuals (system, end-user, training, and instruction), white papers, design specifications, project plans, test plans, business correspondence, how-to-guides, etc. With the rise of e-learning, technical writers are also charged with creating online training for their audience of learners. Technical writers explain technologies, processes, and products in many formats, including print, online, and other electronic means.

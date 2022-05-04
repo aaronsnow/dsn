@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 # Operations Manager
 We’re looking for an experienced operations manager to oversee day-to-day processes, events, and activities for the City of Austin’s Design, Technology, & Innovation Fellows Program.
 

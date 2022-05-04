@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Site Reliability/DevOps Engineer 
 permalink: /join/coe-devops-engineer/

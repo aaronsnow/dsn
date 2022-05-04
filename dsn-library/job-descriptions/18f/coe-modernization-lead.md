@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Modernization Lead (IT Specialist)
 permalink: /join/coe-modernization-lead/

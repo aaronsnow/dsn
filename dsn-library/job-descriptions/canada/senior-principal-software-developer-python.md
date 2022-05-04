@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: 'Senior / Principal Software Developer (Python)'
 description: >-

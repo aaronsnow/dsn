@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Product Manager
 description: The role we’re looking to fill is a career-defining opportunity for

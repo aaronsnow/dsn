@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 # Design, Technology, and Innovation Fellow: UI Designer
 We’re looking for a senior UI designer to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design. Our teams are working to improve a wide range of city services, including researching and redesigning our [permitting processes](http://www.austintexas.gov/department/development-services), prototyping ways to change behaviors around [recycling and composting](http://www.austintexas.gov/department/austin-resource-recovery), building the next generation of [ATXFloods](https://www.atxfloods.com/), and creating city-wide standards for visual design, web development, and user research.
 

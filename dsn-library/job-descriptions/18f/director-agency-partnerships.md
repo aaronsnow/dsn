@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: TTS - Director of Agency Partnerships
 permalink: /join/director-agency-partnerships/

@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Technical Lead    
 The description is the same as with the Senior Technical Lead, except this classification functions under general supervision of a Senior Technical Lead or Senior Project Manager.

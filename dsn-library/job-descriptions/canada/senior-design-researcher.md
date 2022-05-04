@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Senior Design Researcher
 description: We’re looking for an experienced Senior Design Researcher who is

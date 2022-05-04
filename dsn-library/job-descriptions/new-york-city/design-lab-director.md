@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 >Job Title: Design Lab Director
 >Salary: $72,000 – $150,000 Commensurate with Experience (Annual)
 

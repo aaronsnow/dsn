@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Senior Data Analyst    
 A Senior Data Analyst leads work to enable stakeholders across the organization by translating initiatives and goals into analytical questions, identifying critical metrics, conducting analysis, developing reporting, and leading efforts to uncover levers that could improve decision making and program outcomes. Additionally, they will work with staff to identify relevant datasets, contribute to data transformations, clean data, and conduct exploratory and statistical analyses to identify, analyze, and interpret trends or patterns in complex datasets.

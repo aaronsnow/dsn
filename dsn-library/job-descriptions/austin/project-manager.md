@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ### Blurb for attaching to email or posting on social media:
 City of Austin + Bloomberg Philanthropies are hiring for the homelessness innovation team. Bloomberg Philanthropies is supporting a new team to continue our work with people experiencing homelessness in Austin. We’re currently looking for senior practitioners in [Content Strategist](https://cityofaustin.github.io/innovation-fellows/join#content-strategist), [Service Design](https://cityofaustin.github.io/innovation-fellows/join#service-designer) and [Project Management](https://cityofaustin.github.io/innovation-fellows/join#project-manager) to join the team. Candidates must have strong interpersonal skills with sensitivity to others’ experiences, vulnerabilities, and triggers. Patience, humility, and grit are required. Direct experience working in social services or complex systems is a strong plus.
 

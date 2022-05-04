@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: TTS - Director of Outreach and Marketing
 permalink: /join/director-outreach-marketing/

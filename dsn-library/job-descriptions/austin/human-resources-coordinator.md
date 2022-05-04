@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 # Human Resources Coordinator
 We’re looking for an administrative specialist to coordinate processes for recruiting, hiring, and day-to-day human resource tasks for the City of Austin’s Design, Technology, and Innovation Fellows Program.
 

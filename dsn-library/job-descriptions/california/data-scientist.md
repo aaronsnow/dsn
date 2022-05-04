@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Data Scientist    
 A Data Scientist is responsible for analyzing, processing, and modeling data and then communicating the results to inform actionable plans and decisions for the organization. A Data Scientist will need to be able to exercise judgement on selecting the most appropriate method(s) to the analytical question and supporting data. They should be skilled at translating methods to a lay audience.

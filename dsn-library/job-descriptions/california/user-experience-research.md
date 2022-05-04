@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # User Experience Researcher    
 User Experience Researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use government services. This research informs policy, proposition, service, content, and interaction design so that services work well for users and achieves policy intent. User Experience Researchers help the team understand their existing users by regularly talking to, observing, and gathering feedback. Also, help the team reach out to harder to reach people by finding ways to meet them where they are.

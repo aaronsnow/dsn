@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Creative Recruiter
 description: We are looking for a consultative and creative recruiter to scale our team.

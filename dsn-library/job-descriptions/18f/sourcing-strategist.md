@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: TTS Talent - Sourcing Strategist
 permalink: /join/sourcing-strategist/

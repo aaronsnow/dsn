@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # UX/Interaction Designer    
 The UX/Interaction Designer is part of a highly collaborative, multi-disciplinary team focused on improving usability, user experience, and driving user adoption and engagement; and responsible for conducting interaction design.

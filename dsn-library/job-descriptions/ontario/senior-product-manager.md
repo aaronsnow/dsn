@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 >Updated: April 06, 2021
 >Published: March 11, 2021
 >Job title: Senior Product Manager    

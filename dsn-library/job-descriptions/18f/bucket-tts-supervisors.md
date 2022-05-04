@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Technology Transformation Services Supervisor 
 permalink: /join/tts-supervisor/

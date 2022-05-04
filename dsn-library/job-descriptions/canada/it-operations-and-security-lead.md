@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: IT Operations and Security Lead
 description: Reporting to the Head of Internal Operations, this position is

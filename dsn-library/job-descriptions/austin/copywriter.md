@@ -1,3 +1,8 @@
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 # Copywriter, Mid-level to Senior
 We’re looking for an experienced copywriter to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design. Our teams are working to improve a wide range of city services, including researching and redesigning our permitting processes, prototyping ways to change behaviors around recycling and composting, building the next generation of ATXFloods, improving the digital presence of our Convention Center, and creating city-wide standards for service design, web development, and user research.
 

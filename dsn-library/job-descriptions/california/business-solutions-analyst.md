@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Business Solutions Analyst    
 A Business Solutions Analyst performs business systems analysis and is responsible for work that involves applying analytical processes to the planning, design and implementation of new and improved business information systems and business processes to meet the business requirements of customer organizations.

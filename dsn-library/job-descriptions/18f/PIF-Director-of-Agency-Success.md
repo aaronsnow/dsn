@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: PIF - Director of Agency Success 
 permalink: /join/PIF-Director-of-Agency-Success/

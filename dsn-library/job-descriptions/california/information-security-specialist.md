@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Information Security Specialist    
 An Information Security Specialist interprets information security policies, standards and other requirements as they relate to internal information system and coordinates the implementation of these and other information security requirements. The Information Security Specialist redesigns and reengineers internal information handling processes so that information is appropriately protected from a wide variety of problems including unauthorized disclosure, unauthorized use, inappropriate modification, premature deletion, and unavailability.

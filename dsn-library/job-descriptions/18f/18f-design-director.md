@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: 18F Design director — Supervisory IT Specialist (SYSANALYSIS)
 permalink: /join/performance-profiles/18f-design-director/

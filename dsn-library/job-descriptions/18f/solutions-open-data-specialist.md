@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Data.gov - Open Data Specialist
 permalink: /join/data.gov-open-data-specialist/

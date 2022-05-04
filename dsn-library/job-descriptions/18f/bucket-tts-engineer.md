@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Technology Transformation Services Engineer (IT Specialist)
 permalink: /join/tts-engineer/

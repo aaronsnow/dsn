@@ -1,5 +1,6 @@
 ---
 title: "Head of Talent"
+parent: job-descriptions
 description: "We’re looking for someone to lead our talent operations. In this role, you’ll set a clear, compelling vision for how to attract, develop, and retain top talent. You’ll lead our talent acquisition function with a specific focus on developing and driving sourcing and recruitment efforts."
 archived: true
 layout: page

@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Login.gov - Security Ops Engineer
 permalink: /join/security-ops-engineer/

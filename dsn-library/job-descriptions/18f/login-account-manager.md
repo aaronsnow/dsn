@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Login.gov - Account Manager
 permalink: /join/login-account-manager/

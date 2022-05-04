@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: cloud.gov - Security Compliance Architect
 permalink: /join/cloud-security-compliance-architect/

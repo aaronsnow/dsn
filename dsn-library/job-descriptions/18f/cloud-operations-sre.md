@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Cloud.gov - Cloud Operations Site Reliability Engineer
 permalink: /join/cloud-operations-sre/

@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Innovation Adoption Lead
 permalink: /join/innovation-adoption-lead/

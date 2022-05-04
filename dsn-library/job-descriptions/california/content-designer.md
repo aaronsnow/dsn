@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Content Designer
 Content Designers make things easier for people to understand and use. This can involve working on a single piece of content or on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. In this role the Content Designer’s work may involve the creation of, or changes to, a transaction, product or single piece of content that stretches across digital and offline channels. The Content Designer will be expected to make sure appropriate content is shown to a user in the right place and in the best format start from discovery and work closely with user researchers, service designers and interaction designers.
 

@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Business Intelligence Analyst    
 Business Intelligence (BI) Analyst is responsible for preparing dashboards, charts, and other statistics/information from compiled datasets for use by decision makers, the public and other stakeholders. A BI Analyst enables program leaders and stakeholders with accurate and timely data to support decision-making, using a BI platform or framework to implement. They share core competencies with a data analyst but specialize in implementing analyses in the context of a BI framework.

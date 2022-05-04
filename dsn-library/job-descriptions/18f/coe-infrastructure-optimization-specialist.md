@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Infrastructure Optimization Specialist
 permalink: /join/coe-infrastructure-optimization-specialist/

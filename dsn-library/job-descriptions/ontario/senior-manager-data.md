@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 >Updated: October 27, 2021
 >Published: October 27, 2021
 >Job title: Senior Manager, Data    

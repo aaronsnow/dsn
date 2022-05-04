@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 # Design, Technology, and Innovation Fellow: Community Engagement Consultant
 We’re looking for an experienced writer, speaker, and facilitator to help develop and articulate our strategies for Smart Cities, Digital Services, and User-Centered Design across city departments and with the larger Austin community. Note that a technology background is not required – the best candidate will have the ability to synthesize these complex topics for residents, community organizations, and City leadership.
 

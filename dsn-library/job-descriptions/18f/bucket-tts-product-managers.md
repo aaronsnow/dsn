@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Technology Transformation Services Product Manager/Project Manager (IT Specialist)
 permalink: /join/tts-product-project-manager/

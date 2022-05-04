@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: 18F Chapter Directors
 permalink: /join/bucket-18f-chapter-directors/

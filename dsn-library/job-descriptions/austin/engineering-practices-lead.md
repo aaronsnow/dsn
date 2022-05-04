@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 # Engineering Practices Lead
 We’re looking for skilled manager and mentor to lead engineering practices for City of Austin’s Design, Technology, and Innovation Fellows program.
   

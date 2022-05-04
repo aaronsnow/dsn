@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Office of Acquisition - Contract Specialist 
 permalink: /join/contract-specialist/

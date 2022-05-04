@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Data Warehouse Architect    
 A Data Warehouse Architect designs data warehouse architectures to support organizational goals. They understand how to build data warehouse models that can optimally serve BI and analytic needs. They can evaluate the tradeoffs of different schema implementations (e.g., star schema vs. snowflake schema), consider data throughput constraints, and propose a best fit architecture and infrastructure for the defined problem.

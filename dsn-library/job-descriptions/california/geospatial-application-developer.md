@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Geospatial Application Developer    
 The Geospatial Application Developer is responsible for the development of new GIS applications, maintenance and operations of existing GIS applications, including updating system documents; geodatabase modeling; system administration; data management; performance tuning; installing updates and patches; and maintaining geospatial databases and metadata. They maintain expertise in existing and emerging GIS-related software and technologies and evaluate to improve program use of geospatial data and applications.

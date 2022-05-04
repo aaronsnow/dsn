@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 # Content strategist, Senior
 ### Salary
 $75,000-$86,000, commensurate with experience

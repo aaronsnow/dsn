@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Usability Tester    
 The Usability Tester takes the lead in gathering feedback about how people interact with a digital solution, the intuitiveness of the interface, the understandability of the content and the relevance of the solution to their needs and challenges.
 

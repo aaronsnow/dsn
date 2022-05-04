@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: TTS - Diversity, Equity, Inclusion & Accessibility Technology Advisor
 permalink: /join/DEIA-Technology-Advisor/

@@ -1,4 +1,9 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 
 
 # Interaction Designer, Mid-level to Senior

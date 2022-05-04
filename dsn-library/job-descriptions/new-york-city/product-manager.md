@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 > Job Title: Product Manager
 > Salary: $72,038 – $140,000 Commensurate with Experience (Annual).
 

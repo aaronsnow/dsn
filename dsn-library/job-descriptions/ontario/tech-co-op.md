@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 >Updated: March 18, 2022
 >Published: March 14, 2022
 >Job title: Co-op Student    

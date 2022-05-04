@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: 18F - Product Manager (IT Specialist) 
 permalink: /join/product-manager/

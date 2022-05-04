@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 >Updated: February 08, 2022
 >Published: November 01, 2021
 >Job title: Engineering Manager    

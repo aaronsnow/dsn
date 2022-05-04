@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Customer Experience Specialist
 permalink: /join/coe-customer-experience-specialist/

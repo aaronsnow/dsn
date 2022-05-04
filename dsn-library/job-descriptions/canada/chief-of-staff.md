@@ -1,5 +1,6 @@
 ---
 title: "Chief of Staff"
+parent: job-descriptions
 description: "We’re looking for someone to support our CEO and senior management team. From streamlining activities in a high-volume office to coordinating the execution of strategic initiatives, you’ll ensure the priorities of the CEO stay on track and get done."
 archived: true
 layout: page

@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Presidential Innovation Fellows - Director of Events and Strategic Partnerships
 permalink: /join/pif-director-of-events-and-strategic-partnerships/

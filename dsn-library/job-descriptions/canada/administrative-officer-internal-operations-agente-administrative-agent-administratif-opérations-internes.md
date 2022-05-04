@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Administrative Officer - Internal Operations
 description: Do you have a natural inclination toward logistics and planning?

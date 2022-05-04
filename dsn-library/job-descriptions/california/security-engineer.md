@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Security Engineer    
 A Security Engineer serves as the security engineer of complex technology implementations in a product-centric environment; is comfortable with bridging the gap between legacy development or operations teams and working toward a shared culture and vision; works to ensure developers create the most secure systems while enhancing the privacy of all system users; and has experience with white-hat hacking and fundamental computer science concepts.

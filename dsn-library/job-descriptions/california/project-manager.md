@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Project Manager    
 The Project Manager usually works under the direction of a Senior Project Manager or user agency personnel and manages or oversees all aspects of one or more IT projects while interacting with mid-level officials of similar capacity at the user agency and private sector.
 

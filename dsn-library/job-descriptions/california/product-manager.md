@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Product Manager    
 A Product Manager facilitates product vision alignment and strategy to meet clear data driven goals and success metrics. They act as champions of stakeholders to align and meet their expectations, champions of the team to optimize workflow velocity and well-being by cutting through uncertainty, champions of design and the end user in discovering and validating real user value, and act as the voice of product as it orients towards user-centered service delivery. They also manage the delivery, ongoing success, and continuous improvement of one or more digital products and/or platforms in collaboration with the Product Lead.
 

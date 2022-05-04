@@ -1,5 +1,6 @@
 ---
 title: "Head of Engineering"
+parent: job-descriptions
 description: "We’re looking for someone to lead our engineering team. As the head of engineering, you’ll set the vision and tone, shape our technical direction and choices, assess our needs and recruit to fulfill them, and support the team’s learning and development."
 aliases: [/head-of-engineering/,/chef-de-l-ingenierie/]
 archived: true

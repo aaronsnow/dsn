@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Future of Work Policy and Engagement Fellow
 at NJ Office of Innovation

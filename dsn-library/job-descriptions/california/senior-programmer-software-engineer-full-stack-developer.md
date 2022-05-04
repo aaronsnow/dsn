@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Senior Programmer / Software Engineer / Full Stack Developer
 A Senior Programmer is responsible for leading and/or working on the most complex IT applications design, documentation, development, modification, testing, installation, implementation and support of new or existing applications software. This Classification may also plan, install, configure, test, implement and manage a systems environment in support of an organization’s IT architecture and business needs. Common organizational or functional industry position titles for programmers include but are not limited to programmer analyst, applications developer, software engineer, software developer, software quality assurance specialist, systems programmer, systems software programmer, database administrators, computer systems analysts, systems engineer, systems software engineer.

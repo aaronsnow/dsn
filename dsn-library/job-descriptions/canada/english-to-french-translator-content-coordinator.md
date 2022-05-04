@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: English to French Translator (Content Coordinator)
 description: "The Translator role is absolutely essential to ensure that we can

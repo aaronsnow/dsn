@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Cloud Adoption Specialist
 permalink: /join/cloud-adoption-specialist/

@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Product Lead
 A Product Lead collaborates with the Product Manager to scope user-centered product needs, build user stories around feature development, and determine the practices and processes for the delivery team to implement towards product delivery goals.

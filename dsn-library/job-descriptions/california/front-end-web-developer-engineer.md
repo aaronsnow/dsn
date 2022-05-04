@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Front End Web Developer / Engineer    
 A Front-End Web Developer uses modern, front end web development tools, techniques, and methods for the creation and deployment of user-facing interfaces and is comfortable working in an environment to routinely deploy changes.
 

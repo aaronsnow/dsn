@@ -1,5 +1,6 @@
 ---
 layout: job-posting
+parent: job-descriptions
 type: section
 title: Diversity, Equity & Inclusion Program Manager
 description: "We are looking for a Diversity, Equity and Inclusion (DEI) Program

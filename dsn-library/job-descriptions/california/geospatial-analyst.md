@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Geospatial Analyst    
 A Geospatial Analyst prepares analyses of spatial data, including but not limited to static maps, interactive maps, and other derived spatial data products. They share core competencies of a Data Analyst but will be more specialized working with spatial data and best practices around spatial visualization.
 

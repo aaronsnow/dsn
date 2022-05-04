@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Enterprise Architect    
 An Enterprise Architect applies functional and technical expertise to support complex projects in applying organizing principles and methods of enterprise architecture. Methods of enterprise architecture include IT business systems development and technical solutions that align with the business process. This is accomplished through requirements analysis, needs assessments, and selection and implementation of integration strategies including lifecycle sustainability.

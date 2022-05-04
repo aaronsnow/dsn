@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 >Job Title: UX Designer
 >Salary: $94,283 – $120,000 (Annual)

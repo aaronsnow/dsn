@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 
 # Technical Architect    
 A Technical Architect will serve as the manager of complex technology implementations, with an eye toward constant reengineering and refactoring to ensure the simplest and most elegant system possible to accomplish the desired need; understand how to maximize leverage of the open source community to deploy systems on Infrastructure as a Service (IaaS) providers; be comfortable sharing knowledge across a multi-disciplinary team and working within various methodologies; and be a full partner in the determination of vision, objectives, and success criteria.

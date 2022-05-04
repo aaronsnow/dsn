@@ -1,3 +1,9 @@
+
+---
+layout: job-posting
+parent: job-descriptions
+---
+
 ---
 title: Centers of Excellence - Contact Center Optimization Specialist
 permalink: /join/contact-center-optimization-specialist/

@@ -1,4 +1,10 @@
 
+---
+layout: job-posting
+parent: job-descriptions
+---
+
+
 # Content Development Specialist
 
 at NJ Office of Innovation
