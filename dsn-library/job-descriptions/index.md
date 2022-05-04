@@ -1,10 +1,18 @@
 ---
-title: DSN Library - Job Descriptions
-has_children: true
-nav_order: 10
+title: Job Descriptions
+parent: Library
+nav_order: 1
+has_toc: false
 ---
 
-# DSN Library - Job Descriptions
+# Library - Job Descriptions
 
-[18F](./18f/)
-[austin](./austin/)
+- [18F](./18f/)
+- [City of Austin](./austin/)
+- [California](./california/)
+- [Canadian Digital Service](./canada/)
+- [Colorado (TBA)](./colorado/)
+- [New Jersey](./new-jersey/)
+- [New York City](./new-york-city/)
+- [Ontario](./ontario/)
+- [Royal Borough of Greenwich](./rb-greenwich/)

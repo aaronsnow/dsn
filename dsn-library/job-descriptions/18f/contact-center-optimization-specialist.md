@@ -1,7 +1,6 @@
 
 ---
 layout: job-posting
-parent: job-descriptions
 ---
 
 ---

@@ -1,12 +1,10 @@
 
 ---
 layout: job-posting
-parent: job-descriptions
 ---
 
 ---
 title: 18F Account Management director — Supervisory IT Specialist (SYSANALYSIS)
-parent: job-descriptions
 permalink: /join/performance-profiles/18f-account-management-director/
 state: closed
 job_post_type: usajobs
