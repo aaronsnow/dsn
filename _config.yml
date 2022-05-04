@@ -1,8 +1,8 @@
 title: Government Digital Service Network
 description: Helping governments transform how they deliver digital services to the public.
-# url: https://aaronsnow.github.io/dsn
+url: https://aaronsnow.github.io/dsn
 remote_theme: pmarsceill/just-the-docs
 
-links:
-  home: /
-  dsn-library: /dsn-library/
+# links:
+#   home: /
+#   dsn-library: /dsn-library/
