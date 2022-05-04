@@ -1,8 +1,8 @@
 title: Government Digital Service Network
 description: Helping governments transform how they deliver digital services to the public.
-url: https://beeckcenter.georgetown.edu/beeckcenter
+# url: https://beeckcenter.georgetown.edu/beeckcenter
 remote_theme: pmarsceill/just-the-docs
 
 links:
   home: /
-  collaboratives: /collaboratives/
+  dsn-library: /dsn-library/
