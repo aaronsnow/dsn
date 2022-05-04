@@ -4,5 +4,5 @@ url: https://aaronsnow.github.io/dsn
 remote_theme: pmarsceill/just-the-docs
 
 # links:
-#   home: /
-#   dsn-library: /dsn-library/
+  home: /
+  dsn-library: /dsn-library/
